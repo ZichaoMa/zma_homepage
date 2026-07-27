@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png" # TODO: replace with your photo, same filename or update this path
   name             : "Zichao Ma"
-  pronouns         : "Dr. " # example: "she/her"  
+  pronouns         : "Doctor of Philosophy in ECE" # example: "she/her"  
   bio              : "Associate Professor working on 2D semiconductor devices and nanostructured optoelectronic memristors."
   location         : "Guangzhou, China" # DRAFT - inferred from institution, confirm
   employer         : "South China University of Technology (SCUT)" # DRAFT - inferred from your email domain scut.edu.cn, confirm exact dept/school name
