@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png" # TODO: replace with your photo, same filename or update this path
   name             : "Zichao Ma"
   pronouns         : # example: "she/her"  
-  bio              : "DRAFT - confirm before publishing: Researcher working on semiconductor device physics, device modeling, IC fabrication, and circuit design." # EDIT ME
+  bio              : "Associate Professor working on 2D semiconductor devices and nanostructured optoelectronic memristors."
   location         : "Guangzhou, China" # DRAFT - inferred from institution, confirm
   employer         : "South China University of Technology (SCUT)" # DRAFT - inferred from your email domain scut.edu.cn, confirm exact dept/school name
   uri              : # URL

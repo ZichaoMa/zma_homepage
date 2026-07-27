@@ -33,12 +33,6 @@ Grants and projects
 * Guangdong Basic and Applied Basic Research Foundation, General Program.
 * National Laboratory Young Innovation Special Project.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Patents
 ======
 * Zichao Ma, Changjian Zhou, Tao Wen, Xuehui Dong. "A nanoribbon array thin film and its preparation method." Invention patent application 202610228913.1.

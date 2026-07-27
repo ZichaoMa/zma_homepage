@@ -4,5 +4,7 @@ collection: publications
 category: manuscripts
 date: 2019-01-01
 venue: "Nanomaterials"
-citation: "Ying Xiao, Zubair Ahmed, <strong>Zichao Ma</strong>, Changjian Zhou, Lining Zhang, Mansun Chan. &quot;Low Temperature Synthesis of High-Density Carbon Nanotubes on Insulating Substrate.&quot; <i>Nanomaterials</i>, 9(3), 473, 2019."
+details: "9(3), 473"
+authors: "Ying Xiao, Zubair Ahmed, Zichao Ma, Changjian Zhou, Lining Zhang, Mansun Chan"
+note: ""
 ---
