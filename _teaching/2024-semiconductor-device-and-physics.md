@@ -1,8 +1,8 @@
 ---
-title: "Semiconductor Device and Physics (since 2024)"
+title: "Semiconductor Device and Physics (Code S0809099)"
 collection: teaching
-type: "Core Graduate Course"
-date: 2024-09-01
+type: "Core Graduate Course, Since 2024 Fall"
+date: 
 venue: "School of Microelectronics / School of Integrated Circuits, South China University of Technology"
 location: "Guangzhou, China"
 ---

@@ -16,7 +16,7 @@ Education
 
 Positions
 ======
-* Associate Professor, School of Integrated Circuits (Microelectronics), South China University of Technology, 2022 to present.
+* Associate Professor, School of Microelectronics & School of Integrated Circuits, South China University of Technology, 2023 to present.
 * Postdoctoral Fellow, Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2020 to 2022. Advisor: Chair Professor Zhiyong Fan, F-OSA/F-RSC.
 
 Awards and honors
