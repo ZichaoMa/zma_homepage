@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electronic Engineering, Hong Kong University of Science and Technology, 2016 to 2020. Advisor: Chair Professor Mansun Chan, F-IEEE.
+* Ph.D. in Electronic & Computer Engineering, Hong Kong University of Science and Technology, 2016 to 2020. Advisor: Chair Professor Mansun Chan, F-IEEE.
 * B.Eng. in Integrated Circuit Design, University of Electronic Science and Technology of China, School of Microelectronics and Solid-State Electronics, 2012 to 2016. GPA 3.97/4.00, Outstanding Graduate of Sichuan Province.
 
 Positions
