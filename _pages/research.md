@@ -7,21 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-**Two-dimensional material transistor technology and device physics**
+**Two-dimensional material device technology and device physics**
 
-Development of channel-integrated, high-mobility complementary transistor technology using two-dimensional (2D) semiconductors for 1 nm-node integrated circuits. First-principles calculations are used to model the device physics of 2D material to metal contacts, informing contact engineering, controllable doping methods, and stable van der Waals stacking processes toward 2D monolayer-body-channel gate-all-around (MBC-GAA) field-effect transistors. This work has yielded homogeneously integrated complementary logic circuits in MoS<sub>2</sub>, and complementary MoS<sub>2</sub> inverters built from fully 2D metal-insulator-semiconductor stacks incorporating h-BN and graphene.
+*Dipole-induced p-type Ohmic contact in 2D FETs.* Doping the region of the two-dimensional (2D) semiconductor layer beneath the metal contact, whether through substitutional transition-metal atoms or chalcogen-site substitution, redistributes local charge and gives rise to an interface dipole. This dipole lowers the Schottky barrier in linear proportion to the doping concentration, establishing doping as a tractable engineering route to p-type Ohmic contact, long a missing capability in 2D FETs. The mechanism has been validated in Nb-doped MoS<sub>2</sub> and O-substituted WSe<sub>2</sub> FETs through combined first-principles simulation and experimental characterization. Beyond contact engineering, the group's broader interests span the atomistic molecular dynamics of nanostructured perovskites, photonics in 2D layered heterojunctions, and the homogeneous integration of complementary 2D FETs into inverter circuits.
 
-**Nanostructured optoelectronic memristor design and on-chip integration**
-
-Integration of photodetection and memristive switching into a single edge device for sensing-computing convergence, where nanostructuring further enables high-resolution imaging and high-density information processing. This research uses three-dimensional perovskite nanowire and quantum-wire arrays to fabricate optoelectronic memristors, applies first-principles molecular dynamics to model multi-level resistive switching, and develops CMOS-compatible integration methods for functional circuits.
-
-<!--
-TODO: add 2-3 figures here (device schematics, band diagrams, key results).
-Put image files in /images/ and uncomment/adapt lines like:
-
-<img src="{{ base_path }}/images/research-fig1.png" alt="Description of figure" style="max-width:100%; margin: 1em 0;">
-<img src="{{ base_path }}/images/research-fig2.png" alt="Description of figure" style="max-width:100%; margin: 1em 0;">
--->
+<div style="display:flex; flex-wrap:wrap; gap:1.5em; margin: 1.5em 0;">
+  <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-jmcc-2019.png" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
+  <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-aem-2022.png" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
+  <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-ais-2022.png" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
+  <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-ais-2024.jpg" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
+</div>
 
 ## Publications
 
