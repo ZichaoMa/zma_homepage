@@ -27,6 +27,9 @@ author_profile: true
   <figure style="width:200px; margin:0;">
     <img src="{{ base_path }}/images/research-cover-jmcc-2019.png" alt="Journal cover" style="width:100%; height:auto;">
   </figure>
+  <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-tii-2025.png" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
 </div>
 
 ## Publications
