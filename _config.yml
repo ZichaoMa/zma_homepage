@@ -155,7 +155,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "custom" # using custom.html to run Google Analytics + Baidu Tongji together
   google:
     tracking_id          :
 
