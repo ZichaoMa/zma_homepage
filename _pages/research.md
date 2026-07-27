@@ -13,7 +13,10 @@ author_profile: true
 
 <div style="display:flex; flex-wrap:wrap; gap:1.5em; margin: 1.5em 0;">
   <figure style="width:200px; margin:0;">
-    <img src="{{ base_path }}/images/research-cover-jmcc-2019.png" alt="Journal cover" style="width:100%; height:auto;">
+    <img src="{{ base_path }}/images/research-cover-nanoscale-2025.jpg" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
+  <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-ais-2024.jpg" alt="Journal cover" style="width:100%; height:auto;">
   </figure>
   <figure style="width:200px; margin:0;">
     <img src="{{ base_path }}/images/research-cover-aem-2022.png" alt="Journal cover" style="width:100%; height:auto;">
@@ -22,7 +25,7 @@ author_profile: true
     <img src="{{ base_path }}/images/research-cover-ais-2022.png" alt="Journal cover" style="width:100%; height:auto;">
   </figure>
   <figure style="width:200px; margin:0;">
-    <img src="{{ base_path }}/images/research-cover-ais-2024.jpg" alt="Journal cover" style="width:100%; height:auto;">
+    <img src="{{ base_path }}/images/research-cover-jmcc-2019.png" alt="Journal cover" style="width:100%; height:auto;">
   </figure>
 </div>
 
