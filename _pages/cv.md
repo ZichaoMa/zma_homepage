@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electronic Engineering, Hong Kong University of Science and Technology, 2016 to 2020. Advisor: Chair Professor Mansun Chan.
-* B.Eng. in Integrated Circuit Design, University of Electronic Science and Technology of China, School of Microelectronics and Solid-State Electronics, 2012 to 2016. GPA 3.97/4.00.
+* Ph.D. in Electronic Engineering, Hong Kong University of Science and Technology, 2016 to 2020. Advisor: Chair Professor Mansun Chan, F-IEEE.
+* B.Eng. in Integrated Circuit Design, University of Electronic Science and Technology of China, School of Microelectronics and Solid-State Electronics, 2012 to 2016. GPA 3.97/4.00, Outstanding Graduate of Sichuan Province.
 
 Positions
 ======
 * Associate Professor, School of Integrated Circuits (Microelectronics), South China University of Technology, 2022 to present.
-* Postdoctoral Fellow, Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2020 to 2022. Advisor: Chair Professor Zhiyong Fan.
+* Postdoctoral Fellow, Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, 2020 to 2022. Advisor: Chair Professor Zhiyong Fan, F-OSA/F-RSC.
 
 Awards and honors
 ======
 * IEEE 51st ESSDERC Best Paper Award, 2021.
 * Hong Kong PhD Fellowship Scheme (HKPFS), 2016 to 2020.
 * HKUST School of Engineering Academic Achievement Award, 2019.
-* National Scholarship, China, 2013 to 2015.
+* National Scholarships, China, 2013 to 2015.
 
 Grants and projects
 ======
