@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           : "profile.png" # TODO: replace with your photo, same filename or update this path
   name             : "Zichao Ma"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Dr. " # example: "she/her"  
   bio              : "Associate Professor working on 2D semiconductor devices and nanostructured optoelectronic memristors."
   location         : "Guangzhou, China" # DRAFT - inferred from institution, confirm
   employer         : "South China University of Technology (SCUT)" # DRAFT - inferred from your email domain scut.edu.cn, confirm exact dept/school name
-  uri              : # URL
+  uri              : "https://www2.scut.edu.cn/microelectronics/2020/0910/c25586a504309/page.htm" # URL
   email            : "chauson@scut.edu.cn"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # TODO: add your Google Scholar profile URL
+  googlescholar    : "https://scholar.google.com/citations?user=8H8aFD0AAAAJ&hl=en" # TODO: add your Google Scholar profile URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # TODO: add your ORCID URL
