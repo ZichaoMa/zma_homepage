@@ -2,7 +2,7 @@
 
 Zichao Ma's academic homepage. Built on [Academic Pages](https://github.com/academicpages/academicpages.github.io) (a fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)), hosted via GitHub Pages.
 
-Live at: https://katorid.github.io/zma_homepage/
+Live at: https://zichaoma.github.io/zma_homepage/
 
 ## Editing content
 
@@ -14,4 +14,4 @@ Live at: https://katorid.github.io/zma_homepage/
 
 ## Publishing
 
-GitHub Pages builds automatically from the `master` branch (Settings → Pages → Source: Deploy from a branch → master / root). No CI/build step required — GitHub's built-in Jekyll builder handles it.
+GitHub Pages builds automatically from the `main` branch (Settings → Pages → Source: Deploy from a branch → main / root). No CI/build step required — GitHub's built-in Jekyll builder handles it.
