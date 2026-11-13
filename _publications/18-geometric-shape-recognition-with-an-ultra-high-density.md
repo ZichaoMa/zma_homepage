@@ -7,4 +7,5 @@ venue: "ACS Applied Materials &amp; Interfaces"
 details: "16(4)"
 authors: "Swapnadeep Poddar, Zhesi Chen, Shivam Kumar, Daquan Zhang, Yucheng Ding, Zhenghao Long, Zichao Ma, Qianpeng Zhang, Zhiyong Fan"
 note: ""
+link: "https://doi.org/10.1021/acsami.3c18719"
 ---

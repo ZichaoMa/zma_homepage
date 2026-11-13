@@ -7,4 +7,5 @@ venue: "2025 International Symposium of Electronics Design Automation (ISEDA)"
 details: "pp. 628-631"
 authors: "Zhixin Chen, Jun Jiang, Zhiyuan Wang, Zichao Ma"
 note: "Corresponding author"
+link: "https://doi.org/10.1109/iseda65950.2025.11100371"
 ---

@@ -7,4 +7,5 @@ venue: "Nanomaterials"
 details: "10(10), 1918"
 authors: "Zichao Ma, Shaolin Zhou, Changjian Zhou, Ying Xiao, Suwen Li, Mansun Chan"
 note: "First author"
+link: "https://doi.org/10.3390/nano10101918"
 ---

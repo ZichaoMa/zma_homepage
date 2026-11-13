@@ -7,4 +7,5 @@ venue: "2025 IEEE International Conference on Electron Devices and Solid-State C
 details: "pp. 19-21"
 authors: "Han Yan, Zichao Ma"
 note: "Corresponding author"
+link: "https://doi.org/10.1109/edssc64492.2025.11182720"
 ---

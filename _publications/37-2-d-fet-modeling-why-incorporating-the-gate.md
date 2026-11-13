@@ -7,4 +7,5 @@ venue: "2025 9th IEEE Electron Devices Technology &amp; Manufacturing Conference
 details: "pp. 1-3"
 authors: "Cristine Jin Estrada, Zichao Ma, Lining Zhang, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/edtm61175.2025.11041455"
 ---

@@ -7,4 +7,5 @@ venue: "npj 2D Materials and Applications"
 details: "4(1), 46"
 authors: "Changjian Zhou, Shouyong Zhang, Zhe Lv, Zichao Ma, Cui Yu, Zhihong Feng, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1038/s41699-020-00179-9"
 ---

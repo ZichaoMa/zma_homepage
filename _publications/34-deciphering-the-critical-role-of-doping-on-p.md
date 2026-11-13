@@ -7,4 +7,5 @@ venue: "2025 IEEE 25th International Conference on Nanotechnology (NANO)"
 details: "pp. 409-412"
 authors: "Zichao Ma, Lining Zhang"
 note: "First author"
+link: "https://doi.org/10.1109/nano63165.2025.11113693"
 ---

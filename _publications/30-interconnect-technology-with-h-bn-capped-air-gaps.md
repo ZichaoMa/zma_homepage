@@ -7,4 +7,5 @@ venue: "IEEE Electron Device Letters"
 details: "40(11)"
 authors: "Clarissa Prawoto, Zichao Ma, Ying Xiao, Salahuddin Raju, Changjian Zhou, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/led.2019.2944418"
 ---

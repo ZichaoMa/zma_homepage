@@ -7,4 +7,5 @@ venue: "IEEE Journal of the Electron Devices Society"
 details: "14, 93-101"
 authors: "Ran Huo, Shijun Ou, Zhehao Wu, Han Zhang, Bowen Lv, Yvyang Shao, Zichao Ma, Min Zhang, Mansun Chan, Changjian Zhou"
 note: "Corresponding author"
+link: "https://doi.org/10.1109/jeds.2026.3659128"
 ---

@@ -7,4 +7,5 @@ venue: "Device"
 details: "2(5), 100357"
 authors: "Xiao Qiu, Yucheng Ding, Zhibo Sun, Haocheng Ji, Yu Zhou, Zhenghao Long, Gongze Liu, Peiyao Wang, Swapnadeep Poddar, Beitao Ren, Kemeng Zhou, Ziyun Li, Yang Bryan Cao, Zichao Ma, Baikui Li, Yuanjing Lin, Baoling Huang, Jiannong Wang, Hoi Sing Kwok, Zhiyong Fan"
 note: ""
+link: "https://doi.org/10.1016/j.device.2024.100357"
 ---

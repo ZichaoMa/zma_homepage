@@ -7,4 +7,5 @@ venue: "Advanced Intelligent Systems"
 details: "6(5), 2300586"
 authors: "Yuting Zhang, Zichao Ma, Zhesi Chen, Swapnadeep Poddar, Yudong Zhu, Bing Han, Chak Lam Jonathan Chan, Yucheng Ding, Xiangpeng Kong, Zhiyong Fan"
 note: "Co-first author"
+link: "https://doi.org/10.1002/aisy.202300586"
 ---

@@ -7,4 +7,5 @@ venue: "IEEE Transactions on Nanotechnology"
 details: "25(1), 53-59"
 authors: "Zichao Ma, Lining Zhang, Changjian Zhou"
 note: "First author"
+link: "https://doi.org/10.1109/tnano.2026.3663462"
 ---

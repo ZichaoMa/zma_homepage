@@ -7,4 +7,5 @@ venue: "2018 IEEE International Electron Devices Meeting (IEDM)"
 details: ""
 authors: "Jingli Wang, Xuyun Guo, Zhihao Yu, Zichao Ma, Yanghui Liu, Mansun Chan, Ye Zhu, Xinran Wang, Yang Chai"
 note: ""
+link: "https://doi.org/10.1109/iedm.2018.8614493"
 ---

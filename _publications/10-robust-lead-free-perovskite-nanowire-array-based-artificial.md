@@ -7,4 +7,5 @@ venue: "Advanced Intelligent Systems"
 details: "4, 2270031"
 authors: "Swapnadeep Poddar, Zhesi Chen, Zichao Ma, Yuting Zhang, Chak Lam Jonathan Chan, Beitao Ren, Qianpeng Zhang, Daquan Zhang, Guozhen Shen, Zhiyong Fan"
 note: "Co-first author; cover article"
+link: "https://doi.org/10.1002/aisy.202200065"
 ---

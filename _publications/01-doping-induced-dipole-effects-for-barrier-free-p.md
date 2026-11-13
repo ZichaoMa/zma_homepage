@@ -7,4 +7,5 @@ venue: "IEEE Electron Device Letters"
 details: "46(8), 1385-1388"
 authors: "Zichao Ma, Lining Zhang, Mansun Chan"
 note: "First author"
+link: "https://doi.org/10.1109/led.2025.3577217"
 ---

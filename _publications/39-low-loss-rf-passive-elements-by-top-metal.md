@@ -7,4 +7,5 @@ venue: "2022 6th IEEE Electron Devices Technology &amp; Manufacturing Conference
 details: "pp. 47-49"
 authors: "Clarissa Prawoto, Zichao Ma, Ying Xiao, Salahuddin Raju, Changjian Zhou, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/EDTM53872.2022.9798013"
 ---

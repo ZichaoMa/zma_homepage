@@ -7,4 +7,5 @@ venue: "Nanomaterials"
 details: "14(17), 1408"
 authors: "Meng Liang, Han Yan, Nasrullah Wazir, Changjian Zhou, Zichao Ma"
 note: "Corresponding author"
+link: "https://doi.org/10.3390/nano14171408"
 ---

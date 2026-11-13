@@ -7,4 +7,5 @@ venue: "IEEE Transactions on Electron Devices"
 details: "68(10), 5078-5084"
 authors: "Clarissa Prawoto, Zichao Ma, Ying Xiao, Salahuddin Raju, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/ted.2021.3105086"
 ---

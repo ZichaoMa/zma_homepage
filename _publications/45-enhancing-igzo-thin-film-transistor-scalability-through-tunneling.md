@@ -7,4 +7,5 @@ venue: "2019 International Symposium on VLSI Technology, Systems and Application
 details: ""
 authors: "Zichao Ma, Xintong Zhang, Clarissa Cyrilla Prawoto, Lining Zhang, Longyan Wang, Mansun Chan"
 note: "First author"
+link: "https://doi.org/10.1109/vlsi-tsa.2019.8804666"
 ---

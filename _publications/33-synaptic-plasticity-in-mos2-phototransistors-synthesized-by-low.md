@@ -7,4 +7,5 @@ venue: "2025 IEEE Photonics Conference (IPC), Singapore"
 details: "pp. 1-2"
 authors: "Jinan Jiang, Nasrulla Wazir, Han Yan, Zhixin Chen, Zichao Ma"
 note: "Corresponding author"
+link: "https://doi.org/10.1109/ipc65510.2025.11282182"
 ---

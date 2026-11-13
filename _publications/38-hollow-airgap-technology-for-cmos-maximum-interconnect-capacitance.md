@@ -7,4 +7,5 @@ venue: "2022 IEEE 16th International Conference on Solid-State &amp; Integrated 
 details: "pp. 1-4"
 authors: "Clarissa Prawoto, Zichao Ma, Ying Xiao, Salahuddin Raju, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/icsict55466.2022.9963392"
 ---

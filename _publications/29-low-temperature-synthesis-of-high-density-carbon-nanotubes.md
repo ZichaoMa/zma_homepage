@@ -7,4 +7,5 @@ venue: "Nanomaterials"
 details: "9(3), 473"
 authors: "Ying Xiao, Zubair Ahmed, Zichao Ma, Changjian Zhou, Lining Zhang, Mansun Chan"
 note: ""
+link: "https://doi.org/10.3390/nano9030473"
 ---

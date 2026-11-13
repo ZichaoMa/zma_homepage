@@ -7,4 +7,5 @@ venue: "IEEE International Conference on Nano/Micro Engineered and Molecular Sys
 details: "pp. 312-315"
 authors: "Zichao Ma, Xiaoyi Wang, Lining Zhang"
 note: "First author"
+link: "https://doi.org/10.1109/nems50311.2020.9265614"
 ---

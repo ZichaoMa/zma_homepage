@@ -7,4 +7,5 @@ venue: "ESSDERC 2021, IEEE 51st European Solid-State Device Research Conference"
 details: "pp. 219-222"
 authors: "Cristine Jin Estrada, Zichao Ma, Mansun Chan"
 note: "Best Paper Award"
+link: "https://doi.org/10.1109/essderc53440.2021.9631795"
 ---

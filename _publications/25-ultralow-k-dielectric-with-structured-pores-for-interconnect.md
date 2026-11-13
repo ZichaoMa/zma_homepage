@@ -7,4 +7,5 @@ venue: "IEEE Transactions on Electron Devices"
 details: "67(5), 2071-2075"
 authors: "Ying Xiao, Zichao Ma, Clarissa Cyrilla Prawoto, Changjian Zhou, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/ted.2020.2983230"
 ---

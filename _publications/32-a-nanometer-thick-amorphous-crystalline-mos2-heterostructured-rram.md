@@ -7,4 +7,5 @@ venue: "2026 10th IEEE Electron Devices Technology &amp; Manufacturing Conferenc
 details: "pp. 1-3"
 authors: "Shidi Zhou, Han Yan, Zichao Ma"
 note: "Corresponding author"
+link: "https://doi.org/10.1109/edtm65772.2026.11497854"
 ---

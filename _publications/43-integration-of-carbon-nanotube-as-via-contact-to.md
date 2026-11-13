@@ -7,4 +7,5 @@ venue: "IEEE International Interconnect Technology Conference (IITC 2019)"
 details: ""
 authors: "Zichao Ma, Ying Xiao, Clarissa Prawoto, Zubair Ahmed, Changjian Zhou, Mansun Chan"
 note: "First author"
+link: "https://iitc-conference.org/2019-iitc-program/"
 ---

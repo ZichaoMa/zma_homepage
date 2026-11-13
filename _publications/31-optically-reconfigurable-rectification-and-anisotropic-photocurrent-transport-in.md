@@ -7,4 +7,5 @@ venue: "2026 IEEE 25th International Conference on Nanotechnology (NANO), Nanjin
 details: ""
 authors: "Zhiyuan Wang, Zhixin Chen, Zichao Ma"
 note: "Corresponding author"
+link: "https://doi.org/10.1109/nano67986.2026.11667487"
 ---

@@ -7,4 +7,5 @@ venue: "Physical Review Applied"
 details: "23(6), 064010"
 authors: "Ruolan Wen, Zichao Ma, Yingjie Luo, Changjian Zhou"
 note: "Corresponding author"
+link: "https://doi.org/10.1103/zh2y-fg57"
 ---

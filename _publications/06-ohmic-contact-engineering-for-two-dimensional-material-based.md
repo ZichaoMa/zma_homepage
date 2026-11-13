@@ -7,4 +7,5 @@ venue: "Nanotechnology"
 details: "36(44), 442001"
 authors: "Zichao Ma, Jiwei Chen, Zhixin Chen, Changjian Zhou"
 note: "First author"
+link: "https://doi.org/10.1088/1361-6528/ae1591"
 ---

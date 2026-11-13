@@ -7,4 +7,5 @@ venue: "IEEE Sensors Letters"
 details: "5(11)"
 authors: "Xiaoyi Wang, Yang Deng, Xingru Chen, Zichao Ma, Yixin Wang, Wei Xu, Hongyu Yu"
 note: ""
+link: "https://doi.org/10.1109/lsens.2021.3119182"
 ---

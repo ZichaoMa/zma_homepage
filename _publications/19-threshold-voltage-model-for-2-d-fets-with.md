@@ -7,4 +7,5 @@ venue: "IEEE Transactions on Electron Devices"
 details: "70(5), 2575-2580"
 authors: "Cristine Estrada, Zichao Ma, Lining Zhang, Mansun Chan"
 note: ""
+link: "https://doi.org/10.1109/ted.2023.3255833"
 ---
