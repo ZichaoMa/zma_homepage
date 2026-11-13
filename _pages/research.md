@@ -13,6 +13,9 @@ author_profile: true
 
 <div style="display:flex; flex-wrap:wrap; gap:1.5em; margin: 1.5em 0;">
   <figure style="width:200px; margin:0;">
+    <img src="{{ base_path }}/images/research-cover-nanolett-2026.png" alt="Journal cover" style="width:100%; height:auto;">
+  </figure>
+  <figure style="width:200px; margin:0;">
     <img src="{{ base_path }}/images/research-cover-nanoadv-2025.png" alt="Journal cover" style="width:100%; height:auto;">
   </figure>
   <figure style="width:200px; margin:0;">
@@ -23,9 +26,6 @@ author_profile: true
   </figure>
   <figure style="width:200px; margin:0;">
     <img src="{{ base_path }}/images/research-cover-ais-2022.png" alt="Journal cover" style="width:100%; height:auto;">
-  </figure>
-  <figure style="width:200px; margin:0;">
-    <img src="{{ base_path }}/images/research-cover-jmcc-2019.png" alt="Journal cover" style="width:100%; height:auto;">
   </figure>
   <figure style="width:200px; margin:0;">
     <img src="{{ base_path }}/images/research-cover-tii-2025.png" alt="Journal cover" style="width:100%; height:auto;">
@@ -40,7 +40,7 @@ author_profile: true
 ### {{ yeargroup.name }}
 
 {% for pub in yeargroup.items %}
-**{{ pub.title }}**
+{% if pub.link %}**[{{ pub.title }}]({{ pub.link }})**{% else %}**{{ pub.title }}**{% endif %}
 
 {{ pub.authors | replace: "Zichao Ma", "**Zichao Ma**" }}{% if pub.note != "" %}. *{{ pub.note }}*{% endif %}. {{ pub.venue }}{% if pub.details != "" %}, {{ pub.details }}{% endif %}, {{ pub.date | date: "%Y" }}.
 
